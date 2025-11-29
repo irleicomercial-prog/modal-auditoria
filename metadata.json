@@ -1,0 +1,5 @@
+{
+  "name": "ModalPDV - Auditoria de Validade",
+  "description": "Painel inteligente para comparar relatórios de estoque e validade, identificando inconsistências automaticamente via I.A.",
+  "requestFramePermissions": []
+}
